@@ -1,0 +1,40 @@
+body{
+     background-image: url("https://img.freepik.com/premium-vector/minimal-blue-circle-background-vector-illustration_77417-1323.jpg?w=740");
+     /* background-repeat: no-repeat; */
+    text-align: center;
+}
+
+.input{
+
+ width:20%;
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border:0;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+  /* height:20px */
+}
+
+.button {
+	background: #B9DFFF;
+	color: #016ABC;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	/* box-shadow: 5px 5px 5px #eee; */
+	text-shadow: none;
+    width: 80px;
+    height: 40px;
+}
+
+.button:hover {
+	background: #016ABC;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	/* box-shadow: 5px 5px 5px #eee; */
+	text-shadow: none;
+}
+.design{
+    margin: 50px;
+    display: inline-block;
+}
